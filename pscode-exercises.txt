@@ -1,0 +1,31 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+a + b = c
+
+num1 + num2 = sum
+print sum
+
+ask for 2 numbers 
+add the 2 number together 
+print on the screen the sum of those 2 numbers
+
+
+// Exercise 2: Check if a Number is Even or Odd
+
+   IF (num1 % 2) === 0
+	print num1
+    ELSE (num1 !% 2) === 0
+        print num1
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+	FOR num1 + num2 + num3 + num4 + num5 === sum
+	    THEN sum/5 === average
+		print average
+
+a) Read in 5 separate numbers. 
+      1 + 2 + 3 + 4 + 5 === 15
+b) Calculate the average of the five numbers.
+	THEN 15/5 === 3
+		print 3
